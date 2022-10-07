@@ -1,2 +1,2 @@
 # training
-training materials for Leaf workshops
+Training materials for Leaf-Writer.
