@@ -35,7 +35,7 @@ Structural markup provides information about the structure of a document. In thi
 5. Select __Tags__ on the far left of the ribbon at the top of the screen.
 6. Find the `l` (line) tag by typing it into the search box or scrolling down the list of tags.
 7. Select the `l` tag from the list and then select __OK__.
-8. A different way to tag a line is to highlight the line text, right click, and then select __Add Tag__, `l`, and __OK__. Try it with the next line of the poem.
+8. Try another way of tagging a line — highlight the line text, right click, and then select __Add Tag__, `l`, and __OK__.
 9. Add `l` tags to the remaining lines in the poem using both methods.
 10. Edit the tags around the first line of the poem, which has been mistakenly tagged as a salutation, by clicking on the line, right clicking on `salute` in the __Markup__ panel on the left, and selecting __Change Tag__ from the dropdown menu, `l`, and __OK__.
 
