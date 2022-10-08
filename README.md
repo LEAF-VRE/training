@@ -1,2 +1,2 @@
 # training
-Training materials for Leaf-Writer.
+Training materials for LEAF.
