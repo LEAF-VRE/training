@@ -56,7 +56,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/congress_letter_exercise.xml?person_annotation_20221207164800646",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-12-07T21:48:00.646Z",
-	"dcterms:modified": "2022-12-07T21:48:00.646Z",
+	"dcterms:modified": "2022-12-07T21:49:34.002Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -117,7 +117,7 @@
          <p>We ask your Honorable Body to bear in mind that while men are represented on the floor of Congress and so may be said to be heard there, women who are
             allowed no vote and therefore no representation cannot truly be heard except as Congress
             shall open its doors to us in person.</p>
-         <closer><signed><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName></signed> 
+         <closer><signed><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335" role="aqt">Elizabeth Cady Stanton</persName></signed> 
          <signed>Isabella Beecher Hooker</signed> 
          <signed>Elizabeth S. Bladen</signed> 
          <signed>Olympia Brown</signed> 
