@@ -26,8 +26,8 @@
       <body>
          <pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/congress_letter_image1.jpg"/>
         
-         <p>To the Honorable the Senate and House of Representatives of the United States in
-            Congress Assembled:</p>
+         <opener>To the Honorable the Senate and House of Representatives of the United States in
+            Congress Assembled:</opener>
          <p>The undersigned, Citisens of the United States, believing that under the present Federal
             Constitution all women who are citisens of the United States have the right to vote,
             pray your Honorable Body to enact a law during the present session that shall assist and
@@ -39,14 +39,14 @@
          <p>We ask your Honorable Body to bear in mind that while men are represented on the floor of Congress and so may be said to be heard there, women who are
             allowed no vote and therefore no representation cannot truly be heard except as Congress
             shall open its doors to us in person.</p>
-         <p>Elizabeth Cady Stanton 
+         <closer>Elizabeth Cady Stanton 
          Isabella Beecher Hooker 
          Elizabeth S. Bladen 
          Olympia Brown 
          Susan B. Anthony 
          Josephine S. Griffing 
          Hartford Conn. 
-         Dec. 1871</p>
+         Dec. 1871</closer>
       </body>
    </text>
 </TEI>
