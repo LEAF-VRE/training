@@ -13,12 +13,12 @@
             <p>https://rpo.library.utoronto.ca/content/elizabeth-barrett-browning</p>
          </sourceDesc>
       </fileDesc>
-  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+  </teiHeader>
   <text>
       <body>
 
          <head>Elizabeth Barrett Browning</head>
-            <byline><docAuthor>Vachel Lindsay</docAuthor></byline>
+            <byline>Vachel Lindsay</byline>
 
          <lg>
             <l n="1">Elizabeth Barrett Browning</l>
@@ -32,7 +32,8 @@
 
          <div>
             <p>Note for line 1 : Elizabeth Barrett was one of the most prominent poets of the nineteenth century who married the poet Robert Browning. In the early twentieth century when this poem was written, she was better remembered for the love letters and poems associated with their courtship than for her more ambitous and political writing, which was fiercely femininist and abolitionist.</p>
-            <p>Note for line 4: Mary Pickford was a Toronto-born actress for both the stage and the screen who was known as "America's sweetheart" and famous for her romance with the actor Douglas Fairbanks.</p><p>Note for line 6: The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing</p>
+            <p>Note for line 4: Mary Pickford was a Toronto-born actress for both the stage and the screen who was known as "America's sweetheart" and famous for her romance with the actor Douglas Fairbanks.</p>
+            <p>Note for line 6: The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing</p>
 </div>
       </body>
   </text>
