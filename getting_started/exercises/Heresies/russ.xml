@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Women Talking, Women Thinking</title>
+            <title>HERESIES: A Feminist Publication on Art and Politics</title>
+            <author>Joanna Russ</author>
+            <respStmt>
+               <name>
+                  <orgName>The Heresies Project</orgName>
+               </name>
+               <resp>Publisher</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Heresies Collective, Inc.</publisher>
+            <address>
+               <addrLine>225 Lafayette Street</addrLine>
+               <addrLine>New York, New York 10012</addrLine>
+            </address>
+            <date>1977-78</date>
+            <availability>
+               <licence>©1978 Heresies Collective. All rights reserved. On publication, all rights
+                  revert to authors</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This transcription of "Women Talking, Women Thinking", by Joanna Russ, was published
+               in Heresies Issue #4 "Women's Traditional Arts and the Politics of Aesthetics"</p>
+            <p>is available on the Internet Archives and was last accessed on 19 February 2023 -
+               https://archive.org/details/heresies_04 ark:/13960/t8kd36h55</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This encoded file was created by Diane Jakacki and made available for a Linked
+               Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
+               use or publication outside of the workshop environment.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="14"/>
+         <head><title>Women Talking, Women Thinking </title></head>
+         <note>Various excerpts from the forthcoming novel, On Strike Against God, to be published
+            in the spring of 1978 by Out and Out Books.</note>
+         <byline>Joanna Russ</byline>
+
+         <p>What did we talk about?</p>
+         <p>I don't remember. We talked so hard and sat so still that I got cramps in my knees. We
+            had too many cups of tea and then didn't want to leave the table to go to the bathroom
+            because we didn’t want to stop talking. You will think we talked of revolution but we
+            didn't. Nor did we talk of our own souls. Nor of sewing. Nor of babies. Nor of
+            departmental intrigue. It was politics if by politics you mean the laboratory talk that
+            characters in bad movies are perpetually trving to convey (unsuccessfully) when they
+            Wrinkle Their Wee Brows and say (valiantly—dutifully—after all, they didn’t write it)
+            "But, Doctor, doesn’t that violate Finagle's Constant?" I staggered to the bathroom,
+            released floods of tea, and returned to the kitchen to talk. It was professional talk.
+            It left me grey-faced and with such concentration that I began to develop a headache. We
+            talked about Mary Ann Evans's loss of faith, about Emily Bronté's isolation, about
+            Charlotte Bronté's blinding cloud, about the split in Virginia Woolf's head and the
+            split in her economic situation. We talked about Lady Murasaki, who wrote in a form that
+            no respectable man would touch, Hroswit, a little name whose plays may perhaps amuse
+            myself," Miss Austen who had no more expression in society than a firescreen or a poker.
+            They did not all write letters, write memoirs, or go on the stage. Sappho—only an
+            ambiguous, somewhat disagreeable name. Corinna? The teacher of Pindar. Olive Schreiner,
+            growing up on the veldt, wrote one book, married happily, and never wrote another.
+            Kate Chopin wrote a scandalous book and never wrote another. (Jean has written nothing.)
+            There was M-ry Sh-Il-y who wrote you know what and Ch-rl-tt- P-rk-ns G-Im-n, who wrote
+            one superb horror story and lots of sludge (was it sludge?), and Ph-Il-s Wh--tl-y who
+            was black and wrote eighteenth-century odes (but it was the eighteenth century) and
+            Mrs. -nn R-del-ff- who wrote silly novels and M-rg-r-t C-v-nd-sh and Mrs.-d-n S-thw-rth
+            and Mrs. G--rg- Sh-Id-n and (Miss?) G-rg-tt- H-y-r and B-rb-r- C-rtl-nd and the legion
+            of those who, writing, write not, like the dead Miss B--l-y of the poem who was seduced
+            into bad practices (fudging her endings) and hanged herself in her garter. The sun was
+            going down. I was blind and stiff.</p>
+         <figure>
+            <ab>***</ab>
+         </figure>
+         <p>Twenty years ago I went to college and began to recognize the roof; having dressed for a
+            date (dates were absolutely crucial then) in my low heels, my nylons, my garter belt, my
+            horsehair petticoat, my cotton petticoat, my taffeta skirt, my knit jersey blouse, my
+            circle pin, my gold earrings, my charm bracelet, my waist-cincher, my lipstick, my
+            little bit of eye shadow, my heavy faille coat, my nail polish, my mohair scarf, and my
+            gloves, I went into the dormitory garden to wait. The garden was full of late spring
+            flowers. I had already admired myself in the full-length mirror on the back of my closet
+            door, but standing between the stone walls on the stone-flagged walk, watching the
+            flowers grow ever lighter and more disembodied in the blue twilight—and sitting on the
+            stone bench under the Gothic arches and all that ivy—and we were supposed to get A’s and
+            use the library—we were supposed to write papers—we were supposed to be scholars—I felt
+            invisible. I felt awful, I wanted to take off all my clothes and step out of my
+            underwear. And then take off my hair and fingernails and my face and my flesh and
+            finally my very bones. Just to step out of it. All the way out of it.</p>
+         <p>My date said, "There you are!"</p>
+         <pb n="15"/>
+         <p> I've spent a lot of my time in the library here, picking out obscure references to
+            memoirs written by bad ladies two hundred vears ago and novels by worse ladies who,
+            although personally blameless, wrote wicked books: A Romance of the Pyrenees. Marianna
+            or The Puritan's Daughter. Weird, ghastly stuff. Five romances under the pseudonym By a
+            Lady. Domestic sentiment. Gothic castles. Purity. If only I can reduce this pulp to
+            pulp and spread it out into some kind of shape. Dead voices, haunting and terrible: I
+            want, I need, I hope, I believe. What sort of homes did they have? Did they do their own
+            cooking? Did they expect to get pregnant every year? (See Mrs. Defoe's journal.) The
+            awful constriction, the huge skirts. Mrs. Pepys' dress allowance (''the poor wretch,"
+            her husband called her).How are we fall'n, fall'n by mistaken rules!" Women live like
+            Bats or Owls, labour like Beasts, and die like Worms." Anyone may blame me who likes."
+            "How good it must be to be a man when you want to travel."John laughs at me, but one
+            expects that in marriage."It had all been a therapeutic lie. The mind was powerless to
+            save her. Only a man . . ." "I / Revolve in my / Sheath of impossibles—</p>
+         <p>Scholars don’t usually sit gasping and sobbing in corners of the library stacks.</p>
+         <p>But they should. They should.</p>
+         <figure>
+            <ab>***</ab>
+         </figure>
+         <p>Conversations with the Tooth Fairy:</p>
+         <p>When I was five she stood at the foot of my bed in a dream, wearing an airy, blue,
+            nylon-net gown and glittering rhinestone jewelry, with a little rhinestone coronet on
+            her head. Her magic wand was star-topped and she looked just like a Tooth Fairy
+            should.</p>
+         <p>She was going to give me three wishes.</p>
+         <p>But I woke up.</p>
+         <p>And much later:</p>
+         <p>Last night she came again and sat down on the end of my bed, looking very benevolent,
+            spreading out her blue nylon-net skirts, and recalling to me (even though I was asleep)
+            where I had seen her before—she was somebody I saw in a live stage show when I was four
+            and I’d swear it was the Ice Follies because I remember her in ice skates.</p>
+
+         <sp>
+            <speaker>The Tooth Fairy:</speaker>
+            <ab>Good evening, dear child. I am here to help you.</ab>
+         </sp>
+         <sp>
+            <speaker>Me:</speaker>
+            <ab>Look here, I'm almost forty. This is ridiculous.</ab>
+         </sp>
+         <sp>
+            <speaker>The Fairy:</speaker>
+            <ab>Never mind. To me you will always be a child. Tell me what you want and I shall get
+               it for you.</ab>
+         </sp>
+         <sp>
+            <speaker>Me:</speaker>
+            <ab>Thanks but no thanks ha ha. (My standards of wit are pretty lousy in dreams.)</ab>
+         </sp>
+         <sp>
+            <speaker>The Fairy:</speaker>
+            <ab>Shall I restore to you your lost heterosexuality so that you may once again on the
+               Late Late Show have strange and brilliant adventures in foreign climes with handsome
+               actors such as Buster Crabbe, Dirk Bogarde, James Mason, and Christopher Lee?—leaving
+               it to you to determine what common characteristics (if any) unites this rather
+               peculiar list because, my dear (to be perfectly frank), you have the damnedest tastes
+               I ever saw.</ab>
+         </sp>
+         <sp>
+            <speaker>Me:</speaker>
+            <stage>(sitting bolt upright in terror):</stage>
+            <ab> No, no, no, no, no, no!</ab>
+         </sp>
+         <sp>
+            <speaker>The Fairy:</speaker>
+            <stage>(crossing one leg over another, thus revealing she is indeed wearing ice skates,
+               great big clumpy white ones):</stage>
+            <ab>Well, what do you want, for goodness' sakes! Don't be so difficult. (She then
+               mutters under her breath, What do women want? Dear God, what do they want?')</ab>
+         </sp>
+         <sp>
+            <speaker>Me:</speaker>
+            <ab>That lousy imitation of Freud—</ab>
+         </sp>
+         <p>But here I must break off. The Tooth Fairy cometh not. Messias ist nicht gekommen. It's
+            all ours to get, with Mrs. Anne Radcliffe in one hand and a jackhammer (or jennyhammer)
+            in the other, with books and bricks, pride and perseverance, et cetera. Here endeth the
+            first sermon. (Are ninety-nine.) Suppose you woke up and saw her...</p>
+      </body>
+      <back>
+         <p> Joanna Russ is the author of a novel published by Dell Books, We Who Are About To, and
+            of the science fiction novel, The Two of Them, to be published by Putnam's. This spring
+            Daughters, Inc. will present her fantasy novel, Kit'a Story: A Tale of Magic. She lives
+            in Bellevue, Washington. </p>
+      </back>
+   </text>
+</TEI>
