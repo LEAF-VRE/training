@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -6,87 +7,100 @@
 				<author>T. S. Eliot</author>
 			</titleStmt>
 			<publicationStmt>
-				<p>Text prepared for LEAF-Writer workshop by LEAF team. Transcription done with Transkribus HTR engine.</p>
+				<p>Old Possum's Book of Practical Cats unsure of edition or provenance</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Information about the source</p>
+				<p>Page images made available without knowledge of copyright.</p>
 			</sourceDesc>
 		</fileDesc>
-	</teiHeader>		
+		<encodingDesc>
+			<projectDesc>
+				<p>This encoded file was created by Diane Jakacki and made available for a Linked
+					Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant
+					for use or publication outside of the workshop environment.</p>
+			</projectDesc>
+		</encodingDesc>
+	</teiHeader>
 	<text>
 		<body>
-<div>
-	<pb n="1" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
-			<head> MACAVITY: THE MYSTERY CAT </head>
-			<byline>
-				<docAuthor>T.S. Eliot</docAuthor>
-			</byline>
-			<lg> <l>Macavity's a Mystery Cat: he's called the Hidden Paw</l> 
-				<l>For he's the master criminal who can defy the Law.</l> 
-				<l>He's the bafflement of Scotland Yard, the Flying Squad's despair:</l>
-				<l>For when they reach the scene of crime—Macavity's not there!</l> 
-			</lg>
+			<div>
+				<pb n="32"
+					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
+				<head> MACAVITY: THE MYSTERY CAT </head>
+				<byline>
+					<docAuthor>T.S. Eliot</docAuthor>
+				</byline>
+				<lg>
+					<l>Macavity's a Mystery Cat: he's called the Hidden Paw</l>
+					<l>For he's the master criminal who can defy the Law.</l>
+					<l>He's the bafflement of Scotland Yard, the Flying Squad's despair:</l>
+					<l>For when they reach the scene of crime—Macavity's not there!</l>
+				</lg>
 
-	
-	<lg> 
-		<l>Macavity, Macavity, there's no one like Macavity,</l> 
-		<l>He's broken every human law, he breaks the law of gravity.</l> 
-		<l>His powers of levitation would make a fakir stare, </l>
-		<l>And when you reach the scene of crime—Macavity's not there! </l>
-		<l>You may seek him in the basement, you may look up in the air— </l>
-		<l>But I tell you once and once again, Macavity's not there! </l>
-	</lg>
-			<lg>
-				<l>Macavity's a ginger cat, he's very tall and thin; </l>
-				<l>You would know him if you saw him, for his eyes are sunken in. </l>
-				<l>His brow is deeply lined with thought, his head is highly domed; </l>
-				<l>His coat is dusty from neglect, his whiskers are uncombed. </l>
-				<l>He sways his head from side to side, with movements like a snake; </l>
-				<l>And when you think he's half asleep, he's always wide awake. </l>
-			</lg>
 
-	<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image2.jpg"/>		
-	
-			<lg> 
-				<l>Macavity, Macavity, there's no one like Macavity, </l>
-				<l>For he's a fiend in feline shape, a monster of depravity. </l>
-				<l>You may meet him in a by-street, you may see him in the square- </l>
-				<l>But when a crime's discovered, then Macavity's not there! </l>
-			</lg>
+				<lg>
+					<l>Macavity, Macavity, there's no one like Macavity,</l>
+					<l>He's broken every human law, he breaks the law of gravity.</l>
+					<l>His powers of levitation would make a fakir stare, </l>
+					<l>And when you reach the scene of crime—Macavity's not there! </l>
+					<l>You may seek him in the basement, you may look up in the air— </l>
+					<l>But I tell you once and once again, Macavity's not there! </l>
+				</lg>
+				<lg>
+					<l>Macavity's a ginger cat, he's very tall and thin; </l>
+					<l>You would know him if you saw him, for his eyes are sunken in. </l>
+					<l>His brow is deeply lined with thought, his head is highly domed; </l>
+					<l>His coat is dusty from neglect, his whiskers are uncombed. </l>
+					<l>He sways his head from side to side, with movements like a snake; </l>
+					<l>And when you think he's half asleep, he's always wide awake. </l>
+				</lg>
 
-			<lg> 
-				<l>He's outwardly respectable. (They say he cheats at cards.) </l>
-				<l>And his footprints are not found in any file of Scotland Yard's. </l>
-				<l>And when the larder's looted, or the jewel-case is rifled, </l>
-				<l>Or when the milk is missing, or another Peke’s been stifled,</l>
-				<l>Or the greenhouse glass is broken, and the trellis past repair- </l>
-				<l>Ay, there's the wonder of the thing! Macavity's not there! </l>
-			</lg>
-			<lg> 
-				<l>And when the Foreign Office find a Treaty's gone astray, </l>
-				<l>Or the Admiralty lose some plans and drawings by the way, </l>
-				<l>There may be a scrap of paper in the hall or on the stair- </l>
-				<l>But it's useless to investigate—Macavity's not there! </l>
-				<l>And when the loss has been disclosed, the Secret Service say: </l>
-				<l>"It must have been Macavityl"—but he's a mile away. </l>
-				<l>You'll be sure to find him resting, or a-licking of his thumbs, </l>
-				<l>Or engaged in doing complicated long division sums. </l>
-			</lg>
-			<lg> 
-				<l>Macavity, Macavity, there's no one like Macavity,</l> 
-				<l>There never was a Cat of such deceitfulness and suavity. </l>
-			</lg>
-	
-	
-	<!-- the stanza above is broken down into line a line group (<lg>) and individual lines (<l>). 
-	<pb n="3" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image3.jpg"/> 
-			
-			<lg>He always has an alibi, and one or two to spare: At whatever time the deed took
-				place-MACAVITY WASN'T / THERE! And they say that all the Cats whose wicked deeds are
-				widely known (I might mention Mungojerrie, I might mention Griddlebone) Are nothing
-				more than agents for the Cat who all the time Just controls their operations: the
-				Napoleon of Crimel </lg>-->
-</div>			
+				<pb n="33"
+					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image2.jpg"/>
+
+				<lg>
+					<l>Macavity, Macavity, there's no one like Macavity, </l>
+					<l>For he's a fiend in feline shape, a monster of depravity. </l>
+					<l>You may meet him in a by-street, you may see him in the square- </l>
+					<l>But when a crime's discovered, then Macavity's not there! </l>
+				</lg>
+
+				<lg>
+					<l>He's outwardly respectable. (They say he cheats at cards.) </l>
+					<l>And his footprints are not found in any file of Scotland Yard's. </l>
+					<l>And when the larder's looted, or the jewel-case is rifled, </l>
+					<l>Or when the milk is missing, or another Peke’s been stifled,</l>
+					<l>Or the greenhouse glass is broken, and the trellis past repair- </l>
+					<l>Ay, there's the wonder of the thing! Macavity's not there! </l>
+				</lg>
+				<lg>
+					<l>And when the Foreign Office find a Treaty's gone astray, </l>
+					<l>Or the Admiralty lose some plans and drawings by the way, </l>
+					<l>There may be a scrap of paper in the hall or on the stair- </l>
+					<l>But it's useless to investigate—Macavity's not there! </l>
+					<l>And when the loss has been disclosed, the Secret Service say: </l>
+					<l>"It must have been Macavityl"—but he's a mile away. </l>
+					<l>You'll be sure to find him resting, or a-licking of his thumbs, </l>
+					<l>Or engaged in doing complicated long division sums. </l>
+				</lg>
+				<lg>
+					<l>Macavity, Macavity, there's no one like Macavity,</l>
+					<l>There never was a Cat of such deceitfulness and suavity. </l>
+				</lg>
+
+
+				<note>NOTE: the stanzas above are broken down into line line groups (`lg`) and
+					individual lines (`l`). Change the tagging of the lines below to match that
+					above </note>
+				<pb n="34"
+					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image3.jpg"/>
+
+				<p>He always has an alibi, and one or two to spare: At whatever time the deed took
+					place-MACAVITY WASN'T / THERE! And they say that all the Cats whose wicked deeds
+					are widely known (I might mention Mungojerrie, I might mention Griddlebone) Are
+					nothing more than agents for the Cat who all the time Just controls their
+					operations: the Napoleon of Crimel </p>
+			</div>
 		</body>
 	</text>
 </TEI>
