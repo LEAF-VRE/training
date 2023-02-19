@@ -70,7 +70,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/MrsDalloway-in-BondStreet/MrsDalloway-in-BondStreet.xml?place_annotation_20230219151833340",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-02-19T20:18:33.340Z",
-	"dcterms:modified": "2023-02-19T20:18:33.340Z",
+	"dcterms:modified": "2023-02-19T20:20:30.160Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -111,7 +111,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "2.3.1"
-	}
+	},
+	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -128,7 +129,7 @@
          <byline>VIRGINIA WOOLF</byline>
          <p>Mrs Dalloway said she would buy the gloves herself.</p>
 
-         <p><placeName key="Big Ben" ref="http://www.wikidata.org/entity/Q41225" n="51°30'2.41&amp;quot;N, 0°7'28.45&amp;quot;W">Big Ben</placeName> was striking as she stepped out into the street. It was eleven o'clock and the
+         <p><placeName key="Big Ben" ref="http://www.wikidata.org/entity/Q41225" n="51°30'2.41&amp;quot;N, 0°7'28.45&amp;quot;W">Big Ben<precision match="@ref" precision="high"/></placeName> was striking as she stepped out into the street. It was eleven o'clock and the
             unused hour was fresh as if issued to children on a beach. But there was something
             solemn in the deliberate swing of the repeated strokes; something stirring in the murmur
             of wheels and the shuffle of footsteps.</p>
