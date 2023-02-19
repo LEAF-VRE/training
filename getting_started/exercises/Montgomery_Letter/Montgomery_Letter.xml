@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Lucy Maud Montgomery to Cloke &amp; Son (Hamilton, Ont.) regarding a
+               visit to do a reading</title>
+            <author>Lucy Maud Montgomery</author>
+            <respStmt>
+               <name>
+                  <orgName>Toronto Public Library</orgName>
+               </name>
+               <resp>Publisher</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Toronto Public Library</distributor>
+            <availability>
+               <licence>Public Domain</licence>
+            </availability>
+            <idno type="custom">MSS-A-MONTLUCY1921-11-19-A</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This transcription of Lucy Maud Montgomery's letter to Cloke &amp; Sons is available
+               in facsimile via the Toronto Public Library's Digital Archive site,
+               https://digitalarchive.tpl.ca/</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This encoded file was created by Diane Jakacki and made available for a Linked
+               Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
+               use or publication outside of the workshop environment.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <opener><dateline>2 Nina Ave. Toronto Cloke &amp; Sons</dateline>
+            <salute> Dear Sir,</salute></opener>
+
+         <p> I received your letter of the 19th – November 22nd. I will go to Hamilton on Friday on
+            C.P.R. train that leaves Toronto at <pb/> 10 o’clock and gets to Hamilton at 2:13. I
+            hope someone from your store can meet me at train as I am a stranger in Hamilton. I
+            shall want to leave for Toronto on 4:29 train. Professor Edgar said in his letter to me
+            that you wanted me to speak or <pb/> read. That was why I referred to it. I am much
+            better pleased to find that I am not expected to do this as it will be much less
+            strenuous. </p>
+         <closer>Yours sincerely, L.M.M. MacDonald</closer>
+      </body>
+   </text>
+</TEI>
