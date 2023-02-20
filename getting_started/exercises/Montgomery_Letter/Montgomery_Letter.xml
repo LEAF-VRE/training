@@ -45,7 +45,7 @@
          <p> I received your letter of the 19th – November 22nd. I will go to Hamilton on Friday on
             <add cert="high" evidence="internal" instant="unknown" place="above" precision="high" unit="cm" xml:space="default">C.R.R.</add> train that leaves Toronto at 
             <pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Montgomery_Letter/Montgomery-Cloke_0002.jpg"/> 
-            10 o’clock oclock and gets to Hamilton at 2:13. I
+            10 o’clock <del>oclock</del> and gets to Hamilton at 2:13. I
             hope someone from your store can meet me at train as I am a stranger in Hamilton. I
             shall want to leave for Toronto on 4:29 train. Professor Edgar said in his letter to me
             that you wanted me to speak or 
