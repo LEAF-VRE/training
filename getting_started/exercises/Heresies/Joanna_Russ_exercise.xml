@@ -44,7 +44,7 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="14" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Heresies/Russ_Joanna-image-0001.jpg"/>
+         <pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg" xml:space="default" n="14"/>
          <head><title>Women Talking, Women Thinking </title></head>
          <note>Various excerpts from the forthcoming novel, On Strike Against God, to be published
             in the spring of 1978 by Out and Out Books.</note>
