@@ -48,7 +48,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
-			<opener><salute>To the Honorable the Senate and House of Representatives of the United States in Congress Assembled:</salute></opener>
+			<opener><salute>To the <orgName>Honorable the Senate and House of Representatives of the United States in Congress Assembled</orgName>:</salute></opener>
 			<p>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
 					right to vote, pray your Honorable Body to
