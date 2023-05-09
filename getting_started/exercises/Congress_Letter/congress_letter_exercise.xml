@@ -115,6 +115,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160804884",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-09T20:08:04.884Z",
+	"dcterms:modified": "2023-05-09T20:08:04.884Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160804884#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160804884#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/closer/signed[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://www.wikidata.org/wiki/Q13390410",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 			<projectDesc>
 				<p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -140,7 +219,7 @@
 				who are allowed no vote and therefore no representation cannot truly be heard except
 				as Congress shall open its doors to us in person.</p>
 			<closer><signed><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335" cert="high" role="sgn">Elizabeth Cady Stanton</persName></signed> 
-				<signed>Isabella Beecher Hooker</signed> 
+				<signed><persName ref="https://www.wikidata.org/wiki/Q13390410">Isabella Beecher Hooker</persName></signed> 
 				<signed>Elizabeth S. Bladen</signed> 
 				<signed>Olympia Brown</signed> 
 				<signed>Susan B. Anthony</signed> 
