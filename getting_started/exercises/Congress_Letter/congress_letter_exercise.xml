@@ -48,11 +48,11 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
-			<opener><salute>To the Honorable Senate and House of Representatives of the United States in Congress Assembled:</salute></opener>
+			<opener><salute>To the Honorable the Senate and House of Representatives of the United States in Congress Assembled:</salute></opener>
 			<p>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
 					right to vote, pray your Honorable Body to
-				enact a law during the present session that shall assist and protect them in the exercise of that right.</p>
+				enact a law during the present session that<hi rend="underline"> shall assist and protect them in the exercise of that right</hi>.</p>
 			<p>And they pray further that they may be permitted in person, and in behalf of the
 				thousands of other women who are petitioning Congress to the same effect to be heard
 				upon this Memmoiral before the Senate and House at an early day in the present
@@ -67,7 +67,7 @@
 				<signed>Olympia Brown</signed> 
 				<signed>Susan B. Anthony</signed> 
 				<signed>Josephine S. Griffing</signed> 
-				<dateline>Hartford Conn. Dec. 1871</dateline></closer>
+				<dateline><placeName>Hartford Conn.</placeName> Dec. 1871</dateline></closer>
 		</body>
 	</text>
 </TEI>
