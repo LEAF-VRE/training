@@ -18,7 +18,7 @@
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<distributor>National Archives</distributor>
+				<distributor>National Archives of the United States</distributor>
 				<availability>
 					<licence>Public Domain</licence>
 				</availability>
@@ -71,7 +71,7 @@
 				Olympia Brown 
 				Susan B. Anthony 
 				Josephine S. Griffing 
-				Hartford Conn. Dec. 1871</closer>
+				<dateline>Hartford Conn. Dec. 1871</dateline></closer>
 		</body>
 	</text>
 </TEI>
