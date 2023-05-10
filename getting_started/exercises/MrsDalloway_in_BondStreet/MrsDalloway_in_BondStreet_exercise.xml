@@ -130,7 +130,7 @@
 
          <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" type="bell" xml:space="default">Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and the
             unused hour was fresh as if issued to children on a <placeName>beach</placeName>. But there was something
-            solemn in the deliberate swing of the repeated strokes; something stirring in the <name>murmur</name>
+            solemn in the deliberate swing of the repeated strokes; something stirring in the <name cert="high" evidence="internal" full="yes" instant="unknown" type="sound" xml:space="default">murmur</name>
             of <objectName>wheels</objectName> and the <name>shuffle</name> of footsteps.</p>
 
          <p>No doubt they were not all bound on <name>errands of happiness</name>. There is much more to be said
