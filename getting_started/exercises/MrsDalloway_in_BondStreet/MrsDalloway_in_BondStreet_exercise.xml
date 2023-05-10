@@ -128,10 +128,10 @@
          <byline>VIRGINIA WOOLF</byline>
          <p><persName key="Mrs Dalloway" ref="http://www.wikidata.org/entity/Q752584">Mrs Dalloway</persName> said she would buy the <objectName>gloves</objectName> herself.</p>
 
-         <p><objectName>Big Ben</objectName> was striking as she stepped out into the street. It was eleven o'clock and the
-            unused hour was fresh as if issued to children on a beach. But there was something
-            solemn in the deliberate swing of the repeated strokes; something stirring in the murmur
-            of wheels and the shuffle of footsteps.</p>
+         <p><objectName>Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and the
+            unused hour was fresh as if issued to children on a <placeName>beach</placeName>. But there was something
+            solemn in the deliberate swing of the repeated strokes; something stirring in the <name>murmur</name>
+            of <objectName>wheels</objectName> and the shuffle of footsteps.</p>
 
          <p>No doubt they were not all bound on errands of happiness. There is much more to be said
             about us than that we walk the streets of Westminster. Big Ben too is nothing but steel
