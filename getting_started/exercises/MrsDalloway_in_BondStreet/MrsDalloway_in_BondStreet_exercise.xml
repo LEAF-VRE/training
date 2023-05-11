@@ -35,6 +35,7 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
+      
       <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
           <![CDATA[{
@@ -114,32 +115,7 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData><particDesc>
- <listPerson>
-  <person xml:id="P-1234">
-   <p>Female informant, well-educated, born in
-       Shropshire UK, 12 Jan 1950, of unknown occupation. Speaks French fluently.
-       Socio-Economic status B2.</p>
-  </person>
-  <person xml:id="P-4332" sex="1">
-   <persName>
-    <surname>Dalloway</surname>
-    <forename>Mrs</forename>
-   </persName>
-   <residence notAfter="1959">
-    <address>
-     <street>Railway Cuttings</street>
-     <settlement>East Cheam</settlement>
-    </address>
-   </residence>
-   <occupation>comedian</occupation>
-  </person>
-  <listRelation>
-   <relation type="personal" name="spouse" mutual="#P-1234 #P-4332"/>
-  </listRelation>
- </listPerson>
-</particDesc>
-      <encodingDesc>
+      </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -148,7 +124,11 @@
       </encodingDesc>
    </teiHeader>
    <text>
+      
       <body>
+         <listBibl>
+         <taxonomy>thing</taxonomy>
+         </listBibl>
          <head><title>MRS DALLOWAY IN BOND STREET</title></head>
          <byline>VIRGINIA WOOLF</byline>
          <p><persName key="Mrs Dalloway" ref="http://www.wikidata.org/entity/Q752584">Mrs Dalloway</persName> said she would buy the <objectName>gloves</objectName> herself.</p>
