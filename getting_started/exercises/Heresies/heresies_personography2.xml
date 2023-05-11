@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <listPerson>
+           <person> 
+              <persName type="standard">Agosta, Diana</persName>
+              <persName type="preferred">
+                 <name type="forename">Diana</name>
+                 <name type="surname">Agosta</name>
+              </persName>
+                 <occupation>author</occupation>
+              <listBibl>
+                 <bibl>Heresies Issue # 16	Film / Video / Media	$11,000 is NOT ENOUGH</bibl>
+                    <bibl>Heresies Issue # 16	Film / Video / Media	If I Ever Stop Believing…</bibl>
+                    <bibl>Heresies Issue # 16	Film / Video / Media	From Pathos to Politics</bibl>
+              </listBibl>
+</person>
+         </listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q5372719">Amos, Emma</persName>
+      <persName type="preferred">
+         <name type="forename">Emma</name>
+         <name type="surname">Amos</name>
+      </persName>
+      <occupation type="http://id.lincsproject.ca/occupation/artist">artist</occupation>
+      			<listBibl><bibl>Heresies Issue # 15	Racism is the Issue	Self-Portrait</bibl>
+				<bibl>Heresies Issue # 15	Racism is the Issue	Some Do's and Don'ts for Black Women Artists</bibl>
+				<bibl>Heresies Issue # 19	Satire	"Opportunities"</bibl>
+				<bibl>Heresies Issue # 21</bibl>		
+				<bibl>Heresies Issue # 25		Beating The Odds</bibl>
+      			</listBibl>
+   </person>
+</listPerson>
+         
+<listPerson>
+  <person>
+     <persName type="standard" ref="https://www.wikidata.org/wiki/Q1488149">Applebroog, Ida</persName>
+     <persName type="preferred">
+        <name type="forename">Ida</name>
+        <name type="surname">Applebroog</name>
+     </persName>
+     <occupation>artist</occupation>	
+     <listBibl><bibl>Heresies Issue # 2	Patterns of Communication and Space Among Women	Galileo Works
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	The " 'I am Heathcliffe, says Catherine' " Syndrome
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	I Can't</bibl></listBibl></person>
+</listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q16729470">Arai, Tomie</persName>
+      <persName type="preferred">
+         <name type="forename">Tomie</name>
+         <name type="surname">Arai</name>
+      </persName>
+      <occupation>artist</occupation>	
+     <listBibl> 
+      <bibl>Heresies Issue # 15	Racism is the Issue	Dialogue</bibl>
+				<bibl>Heresies Issue # 25		Chinatown</bibl>
+				<bibl>Heresies Issue # 25		Women's Wheel</bibl>
+				<bibl>Heresies Issue # 1	Feminism, Art and Politics	Wall of Respect for Women</bibl>
+				</listBibl>
+   </person>
+</listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q538225">Austen, Alice</persName>
+      <persName type="preferred">
+         <name type="forename">Alice</name>
+         <name type="surname">Austen</name>
+      </persName>
+      <occupation>photographer</occupation>	
+      <listBibl>
+         <bibl>Heresies Issue # 3	Lesbian Art and Artists	Daisy Elliot, on the rings, Violet Ward (holding the football at left), her sister and other amateur gymnasts</bibl>
+				<bibl>Heresies Issue # 3	Lesbian Art and Artists	Mrs. Cocroft did housework for Grandmother Austen while her husband was in the service</bibl>
+				<bibl>Heresies Issue # 3	Lesbian Art and Artists	Standing for Ausetn, a maid demonstrates the way in which prints had to be washed, in ice cold water</bibl>
+				<bibl>Heresies Issue # 3	Lesbian Art and Artists	Violet Ward on her porch with an unidentified friend</bibl>
+      </listBibl>
+   </person>
+   </listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q6962543">Azara, Nancy</persName>
+      <persName type="preferred">
+         <name type="foresname">Nancy</name>
+         <name type="surname">Azara</name>
+      </persName>
+      <occupation>artist</occupation>	
+     <listBibl>
+        <bibl>Heresies Issue # 5	The Great Goddess	About the Goddess Kali, for Pamela Oline</bibl>
+				<bibl>Heresies Issue # 7	Women Working Together	The Group (A Mandala)</bibl>
+				<bibl>Heresies Issue # 7	Women Working Together</bibl>
+     </listBibl>	
+   </person>
+</listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q115628943">Blocton, Lula Mae</persName>
+      <persName>
+         <name type="forename">Lula Mae</name>
+         <name type="surname">Blocton</name>
+</persName>
+      <occupation>painter</occupation>	
+      <listBibl>
+         <bibl>Heresies Issue # 8	Third World Women	The Other Portfolio</bibl>
+				<bibl>Heresies Issue # 8	Third World Women	Ground Plan of Woman's Building</bibl>
+				<bibl>Heresies Issue # 8	Third World Women	Ribbons Rememberedx</bibl>
+      </listBibl>
+   </person>
+</listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q159409">Bourgeois, Louise</persName>
+      <persName type="preferred">
+         <name type="forename">Louise</name>
+         <name type="surname">Louise Bourgeois</name>
+      </persName>
+      <occupation>artist</occupation>	
+      <listBibl>
+         <bibl>Heresies Issue # 1	Feminism, Art and Politics	Now Women Repossess Their Own Sexuality</bibl>
+				<bibl>Heresies Issue # 1	Feminism, Art and Politics	Femme Couteau</bibl>
+				<bibl>Heresies Issue # 2	Patterns of Communication and Space Among Women	From: He Disappeared into Complete Silence</bibl>
+				<bibl>Heresies Issue # 5	The Great Goddess	Frail Goddess</bibl>
+      </listBibl>
+   </person>
+</listPerson>
+         
+<listPerson>
+   <person>
+      <persName type="standard" ref="https://www.wikidata.org/wiki/Q28911659">Braderman, Joan</persName>
+      <occupation>filmmaker</occupation>	
+      <listBibl>
+         <bibl>Heresies Issue # 1	Feminism, Art and Politics	From the First-Issue Collective</bibl>
+				<bibl>Heresies Issue # 1	Feminism, Art and Politics	Juggling Contradictions: Feminism, the Individual and What's Left</bibl>
+      </listBibl>
+   </person>
+</listPerson>
+         
+<listPerson>Broumas	Olga	https://www.wikidata.org/wiki/Q2007001	poet	Heresies Issue # 3	Lesbian Art and Artists	Artemis
+				Heresies Issue # 3	Lesbian Art and Artists	Sometimes, as a child
+				Heresies Issue # 6	On Women and Violence	Imogene Knode</listPerson>
+         
+<listPerson>Browne	Vivian E.	https://www.wikidata.org/wiki/Q20715407	visual artist	Heresies Issue # 15	Racism is the Issue	
+				Heresies Issue # 15	Racism is the Issue	
+				Heresies Issue # 8	Third World Women	A Photo Essay on the People's Republic of China
+				Heresies Issue # 8	Third World Women	Farm workers on the road, Tsinan
+				Heresies Issue # 8	Third World Women	Instructor at the Shanghai Conservatory…
+				Heresies Issue # 8	Third World Women	Retired workers, Mr. and Mrs. Chou, and the author
+				Heresies Issue # 8	Third World Women	Veteran painter
+				Heresies Issue # 8	Third World Women	Veteran worker at the Peking glass factory
+				Heresies Issue # 8	Third World Women	Women reading at a sidewalk bookstall, Canton
+				Heresies Issue # 15	Racism is the Issue	Siftings</listPerson>
+         
+<listPerson>Bunch	Charlotte	https://www.wikidata.org/wiki/Q5085869	author	Heresies Issue # 3	Lesbian Art and Artists	Feminist Publishing: An Antiquated Form?
+			activist	Heresies Issue # 21		Food- Politics- Power: A Feminist Perspective
+				Heresies Issue # 21		The Commercial Kitchens of Peru</listPerson>
+         
+<listPerson>Carr	Cynthia	https://www.wikidata.org/wiki/Q5200026	writer	Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Women in Research
+				Heresies Issue # 3	Lesbian Art and Artists	Story
+				Heresies Issue # 15	Racism is the Issue	Testimony of a Girl</listPerson>
+         
+<listPerson>Carson	Karen	https://www.wikidata.org/wiki/Q19802644	painter	Heresies Issue # 1	Feminism, Art and Politics	Cracking Up
+				Heresies Issue # 1	Feminism, Art and Politics	Edge of Night
+				Heresies Issue # 1	Feminism, Art and Politics	Shattered Dreams</listPerson>
+         
+<listPerson>Chernysheva	Olga	https://www.wikidata.org/wiki/Q4514273	visual artist	Heresies Issue # 26		
+				Heresies Issue # 26		
+				Heresies Issue # 26		</listPerson>
+         
+<listPerson>Clausen	Jan	https://www.wikidata.org/wiki/Q23900389	poet	Heresies Issue # 1	Feminism, Art and Politics	the empress anastasia in new york
+			writer	Heresies Issue # 9	Organized Women Divided	Thesis: Antithesis
+				Heresies Issue # 19	Satire	"Letters to the Editor"</listPerson>
+         
+<listPerson>Cook	Blanche Weisen	https://www.wikidata.org/wiki/Q4924893	biographer	Heresies Issue # 6	On Women and Violence	Psychosurgery for Social Control
+				Heresies Issue # 20		An Interview with Kathy Goldman: In the Midst of Plenty
+				Heresies Issue # 20		Sisters in Support of Sisters in South Africa</listPerson>
+         
+<listPerson>Cross	Tia	n/a		Heresies Issue # 15	Racism is the Issue	Face-to-Face, Day-to-Day Racism CR
+				Heresies Issue # 15	Racism is the Issue	Boston Women Demonstrate against Murders of Black Women
+				Heresies Issue # 15	Racism is the Issue	
+				Heresies Issue # 15	Racism is the Issue	
+				Heresies Issue # 15	Racism is the Issue	</listPerson>
+         
+<listPerson>Culbertson	Janet	https://www.wikidata.org/wiki/Q97101559	draftsperson	Heresies Issue # 5	The Great Goddess	Exile III
+			painter	Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism & Ecology	Ecotage!
+				Heresies Issue # 25		Untitled I</listPerson>
+         
+<listPerson>Damon	Betsy	https://www.wikidata.org/wiki/Q43078535	artist	Heresies Issue # 3	Lesbian Art and Artists	The 7000 Year Old Woman
+			activist	Heresies Issue # 5	The Great Goddess	Ancestors
+				Heresies Issue # 5	The Great Goddess	Maypole Ritual</listPerson>
+         
+<listPerson>Davies	Diana	https://www.wikidata.org/wiki/Q16207255	photographer	Heresies Issue # 10	Women and Music	Biafran War Refugees Sing Hymns at Dawn at Food Relief
+				Heresies Issue # 10	Women and Music	Malvina Reynolds
+				Heresies Issue # 10	Women and Music	Singer, New York Subway System</listPerson>
+         
+<listPerson>De Sando	Sandra	n/a	painter	Heresies Issue # 12	Sex Issue	Making Art/Making Love
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Motherlove
+				Heresies Issue # 21		Because of You, There's a Song in My Heart
+				Heresies Issue # 21		The Goddess Baubo</listPerson>
+         
+<listPerson>Edelson	Mary Beth	https://www.wikidata.org/wiki/Q16095250	artist	Heresies Issue # 1	Feminism, Art and Politics	Death of Patriarchy/Heresies
+				Heresies Issue # 5	The Great Goddess	Goddess Head/Calling Series
+				Heresies Issue # 5	The Great Goddess	Pilgrimage/See for Yourself: A Journey to a Neolithic Goddess Cave, 1977. Grapceva, Hvar Island, Yugoslavia
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Up from the Earth
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	To Dance: With Performance in Mind</listPerson>
+         
+<listPerson>Elegina	Yelena	n/a	artist	Heresies Issue # 26		Detail Iksisos
+				Heresies Issue # 26		Ikisos
+				Heresies Issue # 26		Prekrasnoye (The Sublime or Red Square)</listPerson>
+         
+<listPerson>Eshe	Aisha	n.a	poet	Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Terror Tales
+				Heresies Issue # 21		Poems by Aisha Eshe
+				Heresies Issue # 23		Lost Childhood
+				Heresies Issue # 23		Momma's Death
+				Heresies Issue # 25		Sewing Class</listPerson>
+         
+<listPerson>Fishman	Louise	https://www.wikidata.org/wiki/Q6688739	artist	Heresies Issue # 1	Feminism, Art and Politics	Angry Harmony
+				Heresies Issue # 3	Lesbian Art and Artists	How Do I Do It: Cautionary Advice From A Lesbian Painter
+				Heresies Issue # 3	Lesbian Art and Artists	It's Good to Have Limits
+				Heresies Issue # 3	Lesbian Art and Artists	THE TAPES</listPerson>
+         
+<listPerson>Friedrich	Su	https://www.wikidata.org/wiki/Q4492765	filmmaker	Heresies Issue # 1	Feminism, Art and Politics	Chicago Mannequin
+				Heresies Issue # 1	Feminism, Art and Politics	Twins and Janet
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Mea Culpa
+				Heresies Issue # 3	Lesbian Art and Artists	7000 Year Old Woman. Performance #2, a street event, fully clothed.
+				Heresies Issue # 3	Lesbian Art and Artists	7000 Year Old Woman. Performance #2, end of event
+				Heresies Issue # 3	Lesbian Art and Artists	7000 Year Old Woman. Performance #2, giving bags away
+				Heresies Issue # 5	The Great Goddess	Oshun, Yoruba Fertility Gods
+				Heresies Issue # 12	Sex Issue	The Dilemma of the One Who Wants Both and Neither…
+				Heresies Issue # 16	Film / Video / Media	(Cartoon)
+				Heresies Issue # 16	Film / Video / Media	Gently Down the Stream</listPerson>
+         
+<listPerson>Fritz	Joanie	n/a	author	Heresies Issue # 20		Speak Up: Feminist Tax Resistance
+				Heresies Issue # 21		Soph's Despair Over Too Much Spice
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Harpies Complex</listPerson>
+         
+<listPerson>Fuller	Clythia	n/a	photographer	Heresies Issue # 10	Women and Music	Carolyn Brandy
+				Heresies Issue # 10	Women and Music	Casse Culver
+				Heresies Issue # 10	Women and Music	Kay Gardner
+				Heresies Issue # 10	Women and Music	Mary Watkins
+				Heresies Issue # 10	Women and Music	Robin Flower</listPerson>
+         
+<listPerson>Garton	Victoria	n/a	poet	Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Prairie Judas
+				Heresies Issue # 20		Skulls in Neat Rows
+				Heresies Issue # 25		An Open-Trench-Coat Poem for Dirty Boys</listPerson>
+         
+<listPerson>Godwin	Michele	https://www.wikidata.org/wiki/Q115628905	mixed media artist	Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism & Ecology	Growth
+			sculptor	Heresies Issue # 15	Racism is the Issue	Linoleum Prints
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Monotype</listPerson>
+         
+
+<listPerson>Goldner	Janet	https://www.wikidata.org/wiki/Q70411689	visual artist	Heresies Issue # 8	Third World Women	Camille Billops
+				Heresies Issue # 8	Third World Women	Chris Choy
+				Heresies Issue # 8	Third World Women	Suni Pazi</listPerson>
+
+<listPerson>Goldson	Annie	https://www.wikidata.org/wiki/Q44259015	journalist	Heresies Issue # 16	Film / Video / Media	Three-Minute Heroes
+			film academic	Heresies Issue # 16	Film / Video / Media	(Graphics)
+				Heresies Issue # 21		Food Fight</listPerson>
+
+<listPerson>Goodfriend	Penelope	n/a	artist	Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Don't Fall in Love With a Dreamer
+				Heresies Issue # 20		from Role Models and Realities
+				Heresies Issue # 21		
+				Heresies Issue # 23		Mother and Daughter</listPerson>
+
+<listPerson>Gossett	Hattie	https://www.wikidata.org/wiki/Q13563270	artist	Heresies Issue # 10	Women and Music	jazzwomen: they're mostly singers and piano players, only a horn player or two, hardly any drummers
+				Heresies Issue # 12	Sex Issue	intro &amp; 10 takes
+				Heresies Issue # 12	Sex Issue	yo daddy!-\- an 80s version of the dozens
+				Heresies Issue # 15	Racism is the Issue	Is it True What they Say About Colored Pussy?</listPerson>
+
+<listPerson>Gregory	Carole	n/a	author	Heresies Issue # 15	Racism is the Issue	On Becoming a Feminist Writer
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Wild Beauties
+				Heresies Issue # 9	Organized Women Divided	Black Activists</listPerson>
+
+<listPerson>Hammond	Harmony	https://www.wikidata.org/wiki/Q5659529	artist	Heresies Issue # 1	Feminism, Art and Politics	From the First-Issue Collective
+				Heresies Issue # 1	Feminism, Art and Politics	Feminist Abstract Art-\-A Poltical Viewpoint
+				Heresies Issue # 3	Lesbian Art and Artists	CLASS NOTES
+				Heresies Issue # 3	Lesbian Art and Artists	Conch
+				Heresies Issue # 9	Organized Women Divided	Horseblinders
+				Heresies Issue # 12	Sex Issue	A Sense of Touch
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Hearing and Seeing: Linda Mussman and Ann Wilson on creating Nonnarrative Theater</listPerson>
+
+<listPerson>Harris	Valerie	n/a	author	Heresies Issue # 8	Third World Women	Power Exchange 1: Chris Choy
+				Heresies Issue # 8	Third World Women	Power Exchange 2: Barbara Ann Teer
+				Heresies Issue # 8	Third World Women	Power Exchange 3: Suni Paz
+				Heresies Issue # 8	Third World Women	Power Exchange 4: Camille Billops</listPerson>
+
+<listPerson>Hayden	Dolores	https://www.wikidata.org/wiki/Q5289528	historian	Heresies Issue # 11	Making Room – Women and Architecture	Environment As Memory: An Interview with Eileen Gray by Jean Badovici
+			architect	Heresies Issue # 2	Patterns of Communication and Space Among Women	Skyscraper Seduction Skyscraper Rape
+			poet	Heresies Issue # 11	Making Room – Women and Architecture	The Feminist Paradise Palace</listPerson>
+
+<listPerson>Henes	Donna	https://www.wikidata.org/wiki/Q5296361	artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	Web
+			urban shaman	Heresies Issue # 5	The Great Goddess	Autumn Equinox &amp; My Birthday
+				Heresies Issue # 5	The Great Goddess	Spider/ Woman Series
+				Heresies Issue # 5	The Great Goddess	Spring Equinox
+				Heresies Issue # 5	The Great Goddess	Summer Solstice
+				Heresies Issue # 5	The Great Goddess	Winter Solstice
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Chant For Peace</listPerson>
+
+<listPerson>Henry	Janet Olivia	https://www.wikidata.org/wiki/Q28871547	artist	Heresies Issue # 15	Racism is the Issue	Untitled
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Ritual (Detail #1)
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Ritual (Detail #2)</listPerson>
+
+<listPerson>Hirsch	Gilah	https://www.wikidata.org/wiki/Q5560700	artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	Four Square
+				Heresies Issue # 21		Miracle of the Peaches
+				Heresies Issue # 5	The Great Goddess	Reconciliation</listPerson>
+
+         
+<listPerson>Hughes	Lyn	n/a	author	Heresies Issue # 9	Organized Women Divided	Media Photos I by Lyn Hughes
+				Heresies Issue # 9	Organized Women Divided	Media Photos II by Lyn Hughes
+				Heresies Issue # 12	Sex Issue	Odalisque
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Mobility: A Game of Chance and Ambition
+				Heresies Issue # 23		Untitled</listPerson>
+
+<listPerson>Jaramillo	Virginia	https://www.wikidata.org/wiki/Q29572571	painter	Heresies Issue # 8	Third World Women	The Other Portfolio
+				Heresies Issue # 8	Third World Women	Visual Theorems #170
+				Heresies Issue # 15	Racism is the Issue	Untitled</listPerson>
+
+<listPerson>Johnson	Buffie	https://www.wikidata.org/wiki/Q21648341	painter	Heresies Issue # 5	The Great Goddess	Lapis
+				Heresies Issue # 5	The Great Goddess	Pasiphae
+				Heresies Issue # 5	The Great Goddess	The Eternal Weaver</listPerson>
+
+<listPerson>Jonas	Joan	https://www.wikidata.org/wiki/Q453808	artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	Delay Delay
+				Heresies Issue # 5	The Great Goddess	Hills
+				Heresies Issue # 5	The Great Goddess	Mirror Piece</listPerson>
+
+<listPerson>Kordon	Renate	https://www.wikidata.org/wiki/Q24262094	visual artist	Heresies Issue # 19	Satire	(Cartoon)
+				Heresies Issue # 19	Satire	(Cartoon)
+				Heresies Issue # 19	Satire	(Cartoon)</listPerson>
+
+<listPerson>Korsakova	Aleksandra	n/a	artist	Heresies Issue # 26		Portrait of Dostoyevsky
+				Heresies Issue # 26		Rodion Raskolnikov from Dostoyevsky's Crime and Punishment
+				Heresies Issue # 26		</listPerson>
+
+<listPerson>Kuo	Nina	https://www.wikidata.org/wiki/Q86493872	artist	Heresies Issue # 20		No Two Are Alike
+				Heresies Issue # 21		Untitled Photograph
+				Heresies Issue # 21	</listPerson>	
+
+<listPerson>Lacy	Suzanne	https://www.wikidata.org/wiki/Q7650894	artist	Heresies Issue # 6	On Women and Violence	Evolution of a Feminist Art: Public Forms and Social Issues
+				Heresies Issue # 1	Feminism, Art and Politics	Rape Is
+				Heresies Issue # 15	Racism is the Issue	The Forest and the Trees
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Political Performance Art: a discussion by…</listPerson>
+
+<listPerson>Lanyon	Ellen	https://www.wikidata.org/wiki/Q13560692	artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	Cicada
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Transformations II (Endangered)
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	"Leave the World More Beautiful Than You Found It"</listPerson>
+
+<listPerson>Li-Lan		https://www.wikidata.org/wiki/Q112918614	visual artist	Heresies Issue # 8	Third World Women	Canvas with an Unpainted Part
+ 				Heresies Issue # 8	Third World Women	Notebook
+ 				Heresies Issue # 8	Third World Women	The Other Portfolio</listPerson>
+
+<listPerson>Lippard	Lucy	https://www.wikidata.org/wiki/Q137115	art curator	Heresies Issue # 5	The Great Goddess	Stonesprings
+				Heresies Issue # 1	Feminism, Art and Politics	The Glass Swan: Upward and Downward Mobility in the Art World
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	3 Short Fictions
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Making Something from Nothing
+				Heresies Issue # 9	Organized Women Divided	Some Propaganda For Propaganda
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Home Economics
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Political Performance Art: a discussion by…
+				Heresies Issue # 20		First Strike for Peace
+				Heresies Issue # 23		"Right Now is Always the Best Age
+				Heresies Issue # 25		Women, Art, and Cross-Cultural Issues</listPerson>
+
+<listPerson>Lobell	Mimi	https://www.wikidata.org/wiki/Q54803562	architect	Heresies Issue # 5	The Great Goddess	Labyrinth/architectural drawing for a Goddess temple
+				Heresies Issue # 5	The Great Goddess	Section architectural drawing for a Goddess temple
+				Heresies Issue # 5	The Great Goddess	Temples of the Great Goddess</listPerson>
+
+<listPerson>Martin	Mandy	https://www.wikidata.org/wiki/Q19802854	artist	Heresies Issue # 1	Feminism, Art and Politics	Posters From Australia
+				Heresies Issue # 1	Feminism, Art and Politics	(Untitled)
+				Heresies Issue # 1	Feminism, Art and Politics	Traditional Status Values of the Village</listPerson>
+
+<listPerson>McGee	Micki	n/a	author	Heresies Issue # 12	Sex Issue	Narcissism, Feminism, and Video Art
+				Heresies Issue # 16	Film / Video / Media	Loose Threads: Excerpts from Catholic Girl in a Calvinized World
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Her Intestinal Bypass Surgery</listPerson>
+
+<listPerson>Mendieta	Ana	https://www.wikidata.org/wiki/Q463639	artist	Heresies Issue # 5	The Great Goddess	Silveta del Laberinto
+				Heresies Issue # 8	Third World Women	Silueta Series
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	La Venus Negra
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Silueta Series
+				Heresies Issue # 15	Racism is the Issue	Silueta Series</listPerson>
+
+<listPerson>Moore	Sabra	https://www.wikidata.org/wiki/Q29452333	artist	Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism & Ecology	About
+			writer	Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Artifact, Commerce, Texas
+			activist	Heresies Issue # 22		Connections Project/Conexus: A Sampling
+				Heresies Issue # 23		Before Roe v. Wade: Working at New York's First Legal Abortion Clinic</listPerson>
+
+<listPerson>Neiman	Roberta	https://www.wikidata.org/wiki/Q97062484	photographer	Heresies Issue # 2	Patterns of Communication and Space Among Women	Birthday Party
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Bloomingdale's
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Four Photographs
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Pat Smith and Friend
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Spring</listPerson>
+
+<listPerson>Newmarch	Ann	https://www.wikidata.org/wiki/Q19276811	artist	Heresies Issue # 1	Feminism, Art and Politics	Posters From Australia
+				Heresies Issue # 1	Feminism, Art and Politics	Look Rich
+				Heresies Issue # 22		The Stobie Pole</listPerson>
+
+<listPerson>Oji	Helen	https://www.wikidata.org/wiki/Q109270705	visual artist	Heresies Issue # 17	Acting Up!: Women in Theater and Performance	"Vesuvius," Volcano Series #28
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Spirit Lake #1
+				Heresies Issue # 18	Mothers, Mags, and Movie Stars – Feminism and Class	Spirit Lake #2
+</listPerson>
+<listPerson>Pasti	Sara	n/a	author	Heresies Issue # 26		(translated quotes)
+				Heresies Issue # 26		From the U.S. Editors of Heresies
+				Heresies Issue # 25		The Library
+				Heresies Issue # 25		Tracy</listPerson>
+
+<listPerson>Pindell	Howardena	https://www.wikidata.org/wiki/Q5921354	artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	A Black American's African Diary
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Afro-Carolinian "Gullah" Baskets
+				Heresies Issue # 8	Third World Women	Criticism/or/Between the Lines
+				Heresies Issue # 8	Third World Women	Yes-No
+				Heresies Issue # 15	Racism is the Issue	An American Black Woman Artist in a Japanese Garden
+				Heresies Issue # 20		The American Way</listPerson>
+
+<listPerson>Price	Gail	n/a		Heresies Issue # 11	Making Room – Women and Architecture	Architects' Community Design Center: A Conversation with Toni Harris
+				Heresies Issue # 11	Making Room – Women and Architecture	Cubes in the Sahara
+				Heresies Issue # 11	Making Room – Women and Architecture	The abandoned townhouse purchased by El Club del Barrio</listPerson>
+
+<listPerson>Rich	Adrienne	https://www.wikidata.org/wiki/Q270705	poet	Heresies Issue # 1	Feminism, Art and Politics	Women and Honor: Some Notes on Lying
+			essayist	Heresies Issue # 3	Lesbian Art and Artists	Conditions for Work: The Common World of Women
+			feminist	Heresies Issue # 3	Lesbian Art and Artists	Paula Becker to Clara Westhoff
+				Heresies Issue # 9	Organized Women Divided	Culture and Anarchy</listPerson>
+
+<listPerson>Robineau	Adelaide Alsop	https://www.wikidata.org/wiki/Q4681845	potter	Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Eggshell Coupe
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Poppy Vase
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Scarab Vase-\-Apotheosis of the Toiler</listPerson>
+
+<listPerson>Robinson	Abby	https://www.wikidata.org/wiki/Q42315104	photographer	Heresies Issue # 7	Women Working Together	
+				Heresies Issue # 7	Women Working Together	
+				Heresies Issue # 7	Women Working Together	</listPerson>
+
+<listPerson>Rosler	Martha	https://www.wikidata.org/wiki/Q1903090	video artist	Heresies Issue # 1	Feminism, Art and Politics	Tijuana Maid
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	She Sees Herself A New Woman Everyday
+				Heresies Issue # 12	Sex Issue	Vital Statistics of a Citizen, Simply Obtained
+				Heresies Issue # 20		Optimism/Pessimism Constructing a Life</listPerson>
+
+<listPerson>Rothenberg	Erika	https://www.wikidata.org/wiki/Q19802879	video artist	Heresies Issue # 21		Born-Again Chicken
+				Heresies Issue # 21		Equal Opportunity Sauce
+				Heresies Issue # 21		Inspirational Vegetables
+				Heresies Issue # 21		Inspirational Vegetables &amp; Morally Superior Products
+				Heresies Issue # 16	Film / Video / Media	(GRAPHIC)
+				Heresies Issue # 20		Citizens Relax
+</listPerson>
+<listPerson>Rousseau	Ann Marie	https://www.wikidata.org/wiki/Q116734074	photographer	Heresies Issue # 2	Patterns of Communication and Space Among Women	Homeless Women
+			visual artist	Heresies Issue # 23		Life's Everyday Transformations
+				Heresies Issue # 23		Yaro, Aged 10, Just After Her Bath</listPerson>
+
+<listPerson>Russell	Michele	n/a	author	Heresies Issue # 8	Third World Women	Black Eyed Blues Connections: From the Inside Out
+				Heresies Issue # 10	Women and Music	Slave Codes and Liner Notes
+				Heresies Issue # 9	Organized Women Divided	Women, Work and Politics in the U.S.</listPerson>
+
+<listPerson>Ryan	Sheila	n/a	photographer	Heresies Issue # 22		
+				Heresies Issue # 22		
+				Heresies Issue # 22</listPerson>		
+
+<listPerson>Saar	Bettye	https://www.wikidata.org/wiki/Q2900288	sculptor	Heresies Issue # 2	Patterns of Communication and Space Among Women	Bittersweet
+				Heresies Issue # 5	The Great Goddess	Voo Doo Lady with Three Dice
+				Heresies Issue # 8	Third World Women	Four Women in a Storm
+				Heresies Issue # 12	Sex Issue	Gently Stalking Solitude
+				Heresies Issue # 15	Racism is the Issue	The Liberation of Aunt Jemima</listPerson>
+
+<listPerson>Sapphire		https://www.wikidata.org/wiki/Q461075	author	Heresies Issue # 6	On Women and Violence	New York City Tonight
+			poet	Heresies Issue # 6	On Women and Violence	Rain
+				Heresies Issue # 21		Something About the Politics of Size</listPerson>
+
+<listPerson>Schapiro	Miram	https://www.wikidata.org/wiki/Q542496	artist	Heresies Issue # 7	Women Working Together	Bloodroot: Four Views of One Women's Business
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Connection
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Souvenirs
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Waste Not/Want Not: Femmage</listPerson>
+
+<listPerson>Schneeman	Carolee	https://www.wikidata.org/wiki/Q299662	photographer	Heresies Issue # 5	The Great Goddess	In the Performance INTERIOR SCROLL
+			performance artist	Heresies Issue # 5	The Great Goddess	THE MUSE WAS SERPANT AND…
+			video artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	Excerpts from performance Americana I Ching Apple Pie
+				Heresies Issue # 17	Acting Up!: Women in Theater and Performance	Fresh Blood-\-A Dream Morphology
+				Heresies Issue # 23		"Dirty Pictures"</listPerson>
+
+<listPerson>Schultz	Victoria	https://www.wikidata.org/wiki/Q28086008	photographer	Heresies Issue # 16	Film / Video / Media	A Sandinist Fighter Guarding the Barricades
+				Heresies Issue # 16	Film / Video / Media	Mario with his six-year-old son Jesus
+				Heresies Issue # 16	Film / Video / Media	Nicaragua Journal</listPerson>
+
+<listPerson>Siegal	Suzanne (aka Mary Godley)	n/a	artist	Heresies Issue # 21		Holy Family Holidays: Heavenly Birthday
+				Heresies Issue # 21		Holy Family Holidays: Perfect Bar-b-que
+				Heresies Issue # 21		Our Lady of Constant Calorie Coutning
+				Heresies Issue # 21		Our Lady of Heavenly Coffee</listPerson>
+
+<listPerson>Sillman	Amy	https://www.wikidata.org/wiki/Q481952	painter	Heresies Issue # 1	Feminism, Art and Politics	A Pink Strip
+				Heresies Issue # 3	Lesbian Art and Artists	Bibliography on Lesbian Arts
+				Heresies Issue # 3	Lesbian Art and Artists	Marty's Cool Blue House</listPerson>
+
+<listPerson>Sligh	Clarissa	https://www.wikidata.org/wiki/Q18347825	artist	Heresies Issue # 21		Nuclear Food
+				Heresies Issue # 21		Nuclear Food
+				Heresies Issue # 20		Untitled
+				Heresies Issue # 25		Kids Playing at the Gramercy Boys' Club…
+				Heresies Issue # 25		Kids Playing at the Gramercy Boys' Club…
+				Heresies Issue # 25		Kindergarten Class-\-Graduation 1970
+				Heresies Issue # 25		On Being An American Black Student</listPerson>
+
+<listPerson>Smith	Juane Quick-to-See	n/a	visual artist	Heresies Issue # 8	Third World Women	Painter's Chant
+				Heresies Issue # 8	Third World Women	Wallowa Waterhole Series
+				Heresies Issue # 15	Racism is the Issue	Ghost Dance Series</listPerson>
+
+<listPerson>Spero	Nancy	https://www.wikidata.org/wiki/Q2731236	artist	Heresies Issue # 1	Feminism, Art and Politics	Bomb Shitting
+				Heresies Issue # 1	Feminism, Art and Politics	Torture in Chile
+				Heresies Issue # 6	On Women and Violence	Codex Artaud XVII
+				Heresies Issue # 15	Racism is the Issue	Alaide Foppa de Solorzano Disappeared in Guatemala City on Dec. 9, 1980
+				Heresies Issue # 20		Clown and Gunship
+				Heresies Issue # 25		Socrates (detail)</listPerson>
+
+<listPerson>Sternbach	Joni	https://www.wikidata.org/wiki/Q84598829	photographer	Heresies Issue # 25		From the Cameoseries
+				Heresies Issue # 25		Untitled
+				Heresies Issue # 25		Untitled
+				Heresies Issue # 25		Untitled</listPerson>
+
+<listPerson>Stevens	May	https://www.wikidata.org/wiki/Q6796587	artist	Heresies Issue # 1	Feminism, Art and Politics	Tribute to Rosa Luxemburg
+				Heresies Issue # 1	Feminism, Art and Politics	Tribute to Rosa Luxemburg and Two Women
+				Heresies Issue # 1	Feminism, Art and Politics	Two Women
+				Heresies Issue # 2	Patterns of Communication and Space Among Women	Prose Poems for Old Women
+				Heresies Issue # 9	Organized Women Divided	Taking Art to the Revolution
+				Heresies Issue # 15	Racism is the Issue	Big Daddy and George Jackson
+				Heresies Issue # 15	Racism is the Issue	Letter to Angela
+				Heresies Issue # 15	Racism is the Issue	Looking Backward In Order to Look Forward:…
+				Heresies Issue # 23		Fore River
+				Heresies Issue # 23		Gentle Events</listPerson>
+
+         <listPerson>Stevko	Barbara	n/a	author	Heresies Issue # 19	Satire	(Photo-Collage)
+				Heresies Issue # 19	Satire	(Collage)
+				Heresies Issue # 19	Satire	</listPerson>
+
+<listPerson>Stricker	Sharon	n/a	poet	Heresies Issue # 22		First We Create the Nightmare-\- Then We Build the Prison
+				Heresies Issue # 22		The Fire Inside
+				Heresies Issue # 22		Will the Real Criminal Please Stand Up?</listPerson>
+
+<listPerson>Strikker	Carolien	n/a	photographer	Heresies Issue # 25		Brother and Sister
+				Heresies Issue # 25		Dress
+				Heresies Issue # 25		Father and General
+				Heresies Issue # 25		Mother and Child
+				Heresies Issue # 25		Statue Pointing
+				Heresies Issue # 25		White Dress I
+				Heresies Issue # 25		White Dress II</listPerson>
+
+<listPerson>Todd	Judith	n/a		Heresies Issue # 5	The Great Goddess	A portion of Pueblo Bonito, showing cellular articulation…
+				Heresies Issue # 5	The Great Goddess	Opposing the Rape of Mother Earth
+				Heresies Issue # 5	The Great Goddess	Part of the circular Great Kiva wall…
+				Heresies Issue # 5	The Great Goddess	Repeated doorways</listPerson>
+
+         <listPerson>Ukeles	Mierle Laderman	https://www.wikidata.org/wiki/Q14564647	artist	Heresies Issue # 2	Patterns of Communication and Space Among Women	Doing the Laundry: The Sorting of the Sox
+				Heresies Issue # 5	The Great Goddess	Mikva Dreams-\- A Performance
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	"Re-Raw Recovery" Competition</listPerson>
+
+<listPerson>Vicuña	Cecilia	https://www.wikidata.org/wiki/Q16117062	poet	Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism & Ecology	Glass of Milk Spilled Under a Blue Sky
+			artist	Heresies Issue # 15	Racism is the Issue	Arte precario
+			filmmaker	Heresies Issue # 15	Racism is the Issue	Choosing the Feather
+				Heresies Issue # 15	Racism is the Issue	Death and Defense: Guatemalan Women Part 1: Interview…
+				Heresies Issue # 16	Film / Video / Media	Native Vision</listPerson>
+
+<listPerson>Weatherford	Elizabeth	https://www.wikidata.org/wiki/Q106878888	author	Heresies Issue # 2	Patterns of Communication and Space Among Women	Women's Traditional Architecture
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	"By the Lakeside there is an Echo:" Towards a History of Women's Traditional Arts
+				Heresies Issue # 4	Women’s Traditional Arts – The Politics of Aesthetics	Bibliography</listPerson>
+
+         <listPerson>Weinbaum	Batya	https://www.wikidata.org/wiki/Q16152031	feminist	Heresies Issue # 6	On Women and Violence	Dialogue with the Author
+				Heresies Issue # 6	On Women and Violence	Dialogue with a Rapist
+				Heresies Issue # 12	Sex Issue	Oh Yes Come In
+				Heresies Issue # 22		Music, Dance, and Song: Women's Cultural Resistance in Making Their Own Music
+				Heresies Issue # 25		Dear Professor Vile</listPerson>
+
+<listPerson>Weisman	Leslie Kanes	https://www.wikidata.org/wiki/Q17008075	architecture educator	Heresies Issue # 2	Patterns of Communication and Space Among Women	Women's Fantasy Environments: Notes on a Project in Process
+			activist	Heresies Issue # 11	Making Room – Women and Architecture	Rescource List
+			community planner	Heresies Issue # 11	Making Room – Women and Architecture	Women's Environmental Rights: A Manifesto
+				Heresies Issue # 11	Making Room – Women and Architecture	</listPerson>
+
+<listPerson>Wells	Nancy	n/a	author	Heresies Issue # 25		I Met a Man Who Knows He Knows
+				Heresies Issue # 25		The Beginning of an Extraordinary Friendship
+				Heresies Issue # 25		The Offering
+				Heresies Issue # 25		The Spinning of the Top</listPerson>
+
+<listPerson>Wilding	Faith	https://www.wikidata.org/wiki/Q5431238	artist	Heresies Issue # 1	Feminism, Art and Politics	Chrysalis II
+				Heresies Issue # 13	Earthkeeping / Earthshaking: Feminism &amp; Ecology	Seed Work
+				Heresies Issue # 23		Meeting Gran</listPerson>
+
+<listPerson>Wilke	Hannah	https://www.wikidata.org/wiki/Q254663	artist	Heresies Issue # 5	The Great Goddess	Stills from Super T-Art.
+				Heresies Issue # 12	Sex Issue	3 Sisters
+				Heresies Issue # 23		So Help Me Hannah Series: Portrait of the Artist with Her Mother
+				Heresies Issue # 25		From So Help Me Hannah</listPerson>
+
+         <listPerson>Zelvin	Elizabeth	https://www.wikidata.org/wiki/Q112492894	poet	Heresies Issue # 1	Feminism, Art and Politics	Adman
+				Heresies Issue # 1	Feminism, Art and Politics	Zucchini Poem
+				Heresies Issue # 9	Organized Women Divided	Women Who Is Not My Sister</listPerson>
+      </body>
+  </text>
+</TEI>
