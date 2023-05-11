@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +35,86 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml?person_annotation_20230510152558680",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-10T19:25:58.680Z",
+	"dcterms:modified": "2023-05-10T19:25:58.680Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml?person_annotation_20230510152558680#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml?person_annotation_20230510152558680#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q752584",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -51,28 +126,24 @@
       <body>
          <head><title>MRS DALLOWAY IN BOND STREET</title></head>
          <byline>VIRGINIA WOOLF</byline>
-         <p>Mrs Dalloway said she would buy the gloves herself.</p>
+         <p><persName key="Mrs Dalloway" ref="http://www.wikidata.org/entity/Q752584">Mrs Dalloway</persName> said she would buy the <objectName>gloves</objectName> herself.</p>
 
-         <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and the
-            unused hour was fresh as if issued to children on a beach. But there was something
-            solemn in the deliberate swing of the repeated strokes; something stirring in the murmur
-            of wheels and the shuffle of footsteps.</p>
+         <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" type="bell" xml:space="default">Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and the
+            unused hour was fresh as if issued to children on a <placeName>beach</placeName>. But there was something
+            solemn in the deliberate swing of the repeated strokes; something stirring in the <name cert="high" evidence="internal" full="yes" instant="unknown" type="sound" xml:space="default">murmur</name>
+            of <objectName>wheels</objectName> and the <name>shuffle</name> of footsteps.</p>
 
-         <p>No doubt they were not all bound on errands of happiness. There is much more to be said
-            about us than that we walk the streets of Westminster. Big Ben too is nothing but steel
-            rods consumed by rust were it not for the care of H. M.'s Office of Works. Only for Mrs
-            Dalloway the moment was complete; for Mrs Dalloway June was fresh. A happy
-            childhood--and it was not to his daughters only that Justin Parry had seemed a fine
-            fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw of rooks
+         <p>No doubt they were not all bound on <name>errands of happiness</name>. There is much more to be said
+            about us than that we walk the <placeName>streets of Westminster</placeName>. <objectName>Big Ben</objectName> too is nothing but <objectName>steel rods</objectName> consumed by rust were it not for the care of <orgName>H. M.'s Office of Works</orgName>. Only for <persName>Mrs Dalloway</persName> the moment was complete; for <persName>Mrs Dalloway</persName> <date>June</date> was fresh. A happy childhood--and it was not to his daughters only that <persName>Justin Parry</persName> had seemed a fine
+            fellow (weak of course on <name>the Bench</name>); <objectName>flowers</objectName> at <time>evening</time>, smoke rising; the caw of rooks
             falling from ever so high, down down through the October air--there is nothing to take
-            the place of childhood. A leaf of mint brings it back; or a cup with a blue ring.</p>
+            the place of childhood. A <objectName>leaf of mint</objectName> brings it back; or a <objectName>cup with a blue ring</objectName>.</p>
 
-         <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
-            noses, you little demon! and there she was left on the kerb stretching her hand out,
-            while Jimmy Dawes grinned on the further side. </p>
+         <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses' noses, you little demon! and there she was left on the <placeName>kerb</placeName> stretching her hand out,
+            while <persName>Jimmy Dawes</persName> grinned on the further side. </p>
          <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope
             Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting for
-            Durtnall's van to pass. Big Ben struck the tenth; struck the eleventh stroke. The leaden
+            <objectName><orgName>Durtnall</orgName>'s van</objectName> to pass. <objectName>Big Ben</objectName> struck the tenth; struck the eleventh stroke. The leaden
             circles dissolved in the air. Pride held her erect, inheriting, handing on, acquainted
             with discipline and with suffering. How people suffered, how they suffered, she thought,
             thinking of Mrs Foxcroft at the Embassy last night decked with jewels, eating her heart
