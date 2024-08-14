@@ -1,4 +1,4 @@
-# training
+# Archived Training Materials
 Training materials for LEAF.
 
 * This is a list
